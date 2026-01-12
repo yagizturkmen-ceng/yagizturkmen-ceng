@@ -23,4 +23,34 @@
 <div align="center">
 
 **Geliştirme**<br/>
-<img src="
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+
+**Tasarım & 3D**<br/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black" />
+<img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" height="180" alt="top languages" />
+</div>
+
+---
+
+### 📬 Bana Ulaşın
+<div align="center">
+<a href="https://www.linkedin.com/in/KULLANICI_ADIN/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/KULLANICI_ADIN/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
