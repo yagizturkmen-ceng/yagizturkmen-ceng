@@ -45,22 +45,11 @@ Minecraft'ta mimari, Far Cry 5'te kaos.
 
 ### 📡 BAĞLANTI KUR
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Cyber Network">
+<a href="https://www.linkedin.com/in/KULLANICI_ADIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35">
+</a>
+<a href="https://www.instagram.com/KULLANICI_ADIN">
+  <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" height="35">
+</a>
+
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35">
-  </a>
-  &nbsp; <a href="https://www.instagram.com/KULLANICI_ADIN">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" height="35">
-  </a>
-</p>
-
-</div> ```
-
-**Hatırlatma:** Kodu yapıştırdıktan sonra `KULLANICI_ADIN` yazan yerleri kendi profillerine göre güncellemeyi unutma. Bu sefer hem görsel görünecek hem de butonlar tam ortada olacaktır.
-
-
-
