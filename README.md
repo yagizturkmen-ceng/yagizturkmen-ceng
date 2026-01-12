@@ -41,7 +41,7 @@
 🎮 **Dünyalar:**
 Minecraft'ta mimari, Far Cry 5'te kaos.
 
-<img src="https://raw.githubusercontent.com/gist/ManulG/7a205108bb45522eb8383f338580338f/raw/wave.svg" width="100%" height="50px">
+
 
 ### 📡 BAĞLANTI KUR
 
