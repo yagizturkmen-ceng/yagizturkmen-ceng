@@ -45,6 +45,8 @@ Minecraft'ta mimari, Far Cry 5'te kaos.
 
 ### 📡 BAĞLANTI KUR
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Bağlantı Ağı İkonu">
+
 <a href="https://www.linkedin.com/in/KULLANICI_ADIN">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35">
 </a>
@@ -53,3 +55,5 @@ Minecraft'ta mimari, Far Cry 5'te kaos.
 </a>
 
 </div>
+
+
