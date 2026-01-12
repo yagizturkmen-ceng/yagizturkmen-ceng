@@ -36,7 +36,7 @@
 
 <img src="https://raw.githubusercontent.com/SamKirkland/GamingSpotify/main/assets/spotify-now-playing.gif" width="30" height="30"> **Playlist Modu:** Açık
 <br>
-*Duman / Can Bonomo / Nazan Öncel* eşliğinde kodlanıyor...
+*Duman / sombr / The Neighbourhooud* eşliğinde kodlanıyor...
 
 🎮 **Dünyalar:**
 Minecraft'ta mimari, Far Cry 5'te kaos.
