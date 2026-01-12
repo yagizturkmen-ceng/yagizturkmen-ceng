@@ -1,51 +1,55 @@
 <div align="center">
 
-# Selam! Ben Yağız 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=70&lines=YA%C4%9EIZ;COMPUTER+ENGINEER;DESIGN+%2F+CODE" alt="Typing SVG" />
+</a>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Yağız%20|%20Computer%20Engineer&fontSize=45&animation=fadeIn&fontAlignY=38&desc=C%23%20Developer%20•%20UI/UX%20Designer%20•%203D%20Artist&descSize=20&descAlignY=55)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Beykent+%C3%9Cniversitesi+%C3%96%C4%9Frencisi;C%23+%26+.NET+Geli%C5%9Ftiricisi;UI%2FUX+ve+3D+Tasar%C4%B1m+Merakl%C4%B1s%C4%B1;Kod+ve+Sanat%C4%B1n+Bulu%C5%9Ftu%C4%9Fu+Nokta..." alt="Typing SVG" />
 
----
+<img src="https://raw.githubusercontent.com/gist/ManulG/7a205108bb45522eb8383f338580338f/raw/wave.svg" width="100%" height="50px">
 
-### 🚀 Hakkımda
+### 🛸 HAKKINDA
 
-**Beykent Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim.  
-Kod yazarken estetiği, tasarım yaparken fonksiyonelliği önemsiyorum.
+<samp> Let the code flow... </samp>
 
-📍 **Konum:** Ayazağa, İstanbul (Aslen Boluluyum 🌲)  
-🎓 **Eğitim:** Beykent Üniversitesi  
-💡 **İlgi Alanları:** C# & .NET Geliştirme, UI/UX Tasarımı, Blender 3D  
+📍 **Üs:** Ayazağa, İstanbul (Origin: Bolu 🌲)
+🎓 **Akademi:** Beykent Üniversitesi - Bilgisayar Mühendisliği
+🧠 **Odak:** Yazılım mimarisi ile görsel estetiği birleştirmek.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
-### 🛠️ Teknolojiler ve Yetenekler
+### ⚒️ ARSENAL (Teknolojiler & Tasarım)
 
-**Yazılım & Geliştirme** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+<br>
 
-**Tasarım & Modelleme** ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" height="60" alt="Software Skills" />
+<br>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender,figma" height="60" alt="Design Skills" />
 
----
+<br>
 
-### 📊 İstatistikler
+<samp> C# • .NET • Windows Forms • UI/UX • 3D Modeling </samp>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 
----
+### 🎧 VIBE & OYUN
 
-### 🎮 İlgi Alanları & Hobi
+<img src="https://raw.githubusercontent.com/SamKirkland/GamingSpotify/main/assets/spotify-now-playing.gif" width="30" height="30"> **Playlist Modu:** Açık
+<br>
+*Duman / Can Bonomo / Nazan Öncel* eşliğinde kodlanıyor...
 
-**Minecraft**'ta inşa etmeyi, **Far Cry 5**'in dünyasında gezmeyi severim.  
-Çalışırken arkada mutlaka **Duman**, **Can Bonomo** veya **Nazan Öncel** çalar. 🎸
+🎮 **Dünyalar:**
+Minecraft'ta mimari, Far Cry 5'te kaos.
 
----
+<img src="https://raw.githubusercontent.com/gist/ManulG/7a205108bb45522eb8383f338580338f/raw/wave.svg" width="100%" height="50px">
 
-### 📬 İletişim
+### 📡 BAĞLANTI KUR
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/KULLANICI_ADIN)
+<a href="https://www.linkedin.com/in/KULLANICI_ADIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="35">
+</a>
+<a href="https://www.instagram.com/KULLANICI_ADIN">
+  <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" height="35">
+</a>
 
 </div>
