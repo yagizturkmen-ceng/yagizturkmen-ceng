@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Beykent+%C3%9Cniversitesi+%C3%96%C4%9Frencisi;C%23+%26+.NET+Geli%C5%9Ftiricisi;UI%2FUX+ve+3D+Tasar%C4%B1m+Merakl%C4%B1s%C4%B1;Kod+ve+Sanat%C4%B1n+Bulu%C5%9Ftu%C4%9Fu+Nokta..." alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/gist/ManulG/7a205108bb45522eb8383f338580338f/raw/wave.svg" width="100%" height="50px">
+
 
 ### 🛸 HAKKINDA
 
