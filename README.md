@@ -1,93 +1,120 @@
 <div align="center">
 
-<!-- Üst Başlık (Hareketli Yazılar) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=70&lines=YA%C4%9EIZ;COMPUTER+ENGINEER;DESIGN+%2F+CODE" alt="Typing SVG" />
-</a>
+  <!-- Header Banner / Dynamic Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=60&lines=YA%C4%9EIZ+T%C3%9CRKMEN;COMPUTER+ENGINEER;FULL+STACK+%2B+UI%2FUX+%2B+3D" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=18&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Beykent+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi;C%23+%2F+.NET+%E2%80%A2+Vue.js+%E2%80%A2+Node.js+%E2%80%A2+Go;Embedded+Systems+%26+UI%2FUX+Design;Kod+ve+G%C3%B6rsel+Esteti%C4%9Fin+Bulu%C5%9Fma+Noktas%C4%B1" alt="Sub Typing SVG" />
+
+  <br><br>
+
+  <!-- Badges & Profile Views -->
+  <p align="center">
+    <a href="https://github.com/yagizturkmen-ceng">
+      <img src="https://komarev.com/ghpvc/?username=yagizturkmen-ceng&color=00bfff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-FullStack_%2B_Embedded-orange?style=flat-square" alt="Focus" />
+  </p>
+
+</div>
+
+---
+
+### 🚀 Hakkımda
+
+Görsel estetik ile mimari sağlamlığı tek bir noktada buluşturan **Bilgisayar Mühendisliği** öğrencisiyim. Backend servis mimarilerinden Vue 3 frontend geliştirmelerine, C# / .NET masaüstü uygulamalarından gömülü sistemler ve 3D modellemeye kadar geniş bir teknoloji yelpazesinde sistemler inşa ediyorum.
+
+- 🎓 **Eğitim:** Beykent Üniversitesi - Bilgisayar Mühendisliği (Ayazağa Kampüsü)
+- 📍 **Konum:** Sarıyer / İstanbul (Kökler: Bolu 🌲)
+- 💼 **Deneyim:** SCHOTT Orim ITAM Web App Refactoring (Vue 3, Vuetify, Express.js, Node.js)
+- 🔬 **Öne Çıkan Projeler:** Kandilli Otonom Deprem & Yapı Sağlığı İstasyonu (Arduino + C# Desktop) | Beytrium Kampüs Platformu
+- 🎯 **Odak:** Ölçeklenebilir web sistemleri, C# / .NET mimarileri, IoT/Gömülü sistemler ve modern UI/UX tasarımı
+
+---
+
+### 🛠️ Teknoloji & Tasarım Cephaneliği (Tech Stack)
+
+<div align="center">
+
+**💻 Programlama Dilleri**
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Beykent+%C3%9Cniversitesi+%C3%96%C4%9Frencisi;C%23+%26+.NET+Geli%C5%9Ftiricisi;UI%2FUX+ve+3D+Tasar%C4%B1m+Merakl%C4%B1s%C4%B1;Kod+ve+Sanat%C4%B1n+Bulu%C5%9Ftu%C4%9Fu+Nokta..." alt="Typing SVG" />
-
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,js,ts,go,html,css" height="48" alt="Languages" />
 <br><br>
 
-<!-- Profil Görüntülenme Sayacı -->
-<img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADINIZI_YAZIN&color=blueviolet&style=flat-square&label=Profil+Görüntülenmesi" alt="Profile Views" />
-
-</div>
-
----
-
-### 🛸 Hakkımda
-
-Yazılım mimarisi ve görsel estetiği bir araya getirmeyi hedefleyen, tasarım odaklı bir Bilgisayar Mühendisliği öğrencisiyim. Backend sistemlerinden UI/UX tasarımına ve 3D modellemeye kadar geniş bir yelpazede üretmeyi seviyorum. *Let the code flow...*
-
-- 🎓 **Eğitim:** Beykent Üniversitesi - Bilgisayar Mühendisliği (Devam Ediyor)
-- 📍 **Konum:** İstanbul, Ayazağa (Kökler: Bolu 🌲)
-- 🔭 **Şu an üzerinde çalıştığım:** İleri Seviye C# Mimarileri, .NET Projeleri ve Kullanıcı Odaklı Arayüzler
-- 🌱 **Öğrenmeye devam ettiğim:** Modern Yazılım Prensipleri ve Optimizasyon
-- 💬 **Bana şunlar hakkında soru sorabilirsiniz:** C#, .NET, Windows Forms, UI Tasarımı, Blender
-
----
-
-### ⚒️ Teknoloji ve Tasarım Cephaneliğim
-
-Geliştirme sürecimde hem kodlama hem de görsel tasarım araçlarını aktif olarak kullanıyorum:
-
-<div align="center">
-
-**💻 Diller & Çerçeveler (Frameworks)**<br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,html,css" height="50" alt="Languages" />
+**⚡ Frameworks, Kütüphaneler & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=dotnet,vue,react,nodejs,express,bootstrap,vuetify" height="48" alt="Frameworks" />
 <br><br>
 
-**🧰 Araçlar & Veritabanı**<br>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,mysql,sqlite" height="50" alt="Tools" />
+**🗄️ Veritabanı & Gömülü Sistemler**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,arduino,raspberrypi" height="48" alt="Database and Hardware" />
 <br><br>
 
-**🎨 Tasarım & 3D Modelleme (UI/UX)**<br>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender,figma,xd" height="50" alt="Design" />
+**🛠️ Geliştirme Araçları & Geliştirici Ortamı**
+<br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,powershell" height="48" alt="Tools" />
+<br><br>
+
+**🎨 UI/UX & 3D Tasarım**
+<br>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,blender,figma" height="48" alt="Design Tools" />
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADINIZI_YAZIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADINIZI_YAZIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="190" alt="Top Languages" />
-</div>
-
----
-
-### 🎧 Yaşam Tarzı & Vibe
+### 📊 GitHub İstatistikleri & Streak
 
 <div align="center">
 
-| 🎮 Oyun Dünyam | 🎵 Playlist Modu |
-| :---: | :---: |
-| Mimari yapı inşası (Minecraft)<br>ve kontrollü kaos (Far Cry 5). | *Duman, sombr, The Neighbourhood*<br>eşliğinde kodlanıyor... |
-| <img src="https://media3.giphy.com/media/M3i6XHZUcKJ5u/giphy.gif" width="200" height="100"/> | <img src="https://raw.githubusercontent.com/SamKirkland/GamingSpotify/main/assets/spotify-now-playing.gif" width="40" height="40"><br>Sürekli Açık |
+  <img src="https://github-readme-stats.vercel.app/api?username=yagizturkmen-ceng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00BFFF&text_color=A9B7C6&icon_color=39FF14" height="180" alt="Yağız's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizturkmen-ceng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=A9B7C6" height="180" alt="Top Languages" />
 
-</div>
-
----
-
-### 📡 Bağlantı Kur
-
-Eğer bir proje hakkında konuşmak, iş birliği yapmak veya sadece selam vermek istersen bana ulaşabilirsin:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1z-t%C3%BCrkmen-790667339/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/yz.trkmn/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
-  </a>
-  <a href="mailto:emailadresin@gmail.com">
-    <img src="https://img.shields.io/badge/E_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email">
-  </a>
 </div>
 
 <br>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizturkmen-ceng&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=39FF14&currStreakLabel=00BFFF" height="165" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🕹️ Vibe & İlgi Alanları
+
+<div align="center">
+
+| 🎮 Oyun & Simülasyon | 🎧 Sound & Code |
+| :--- | :--- |
+| • **Minecraft:** Mimari yapılar ve Paper/GeyserMC sunucu bridging<br>• **Simülasyon & FPS:** CS2 (4:3 Stretched), Assetto Corsa (Content Mgr), RDR2 | • **Playlist:** *Duman, sombr, The Neighbourhood*<br>• **Odak:** Gece kodlama seansları & UI/UX prototipleme |
+
+</div>
+
+---
+
+### 📡 İletişim & Bağlantı
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1z-t%C3%BCrkmen-790667339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yagizturkmen-ceng" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yz.trkmn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" alt="Instagram" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" max-width="650px">
 </div>
