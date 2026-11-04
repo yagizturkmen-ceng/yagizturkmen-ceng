@@ -11,7 +11,7 @@ Full-stack web uygulamaları ve C# / .NET masaüstü yazılımları geliştiriyo
 
 ### Deneyim
 
-**Stajyer — SCHOTT Orim** · *IT / Yazılım*
+**Yazılım Stajyeri** · *IT departmanı*
 - Kurumsal IT varlık yönetimi (ITAM) web uygulamasının arayüzünü geliştirdim: varlık, lisans, kullanıcı ve destek talebi ekranları, raporların Word'e aktarımı.
 - Uygulamayı React + TypeScript'ten **Vue 3 + Vuetify + Pinia** mimarisine taşıdım; JWT kimlik doğrulamalı **Node.js / Express** REST API iskeletini kurdum.
 
@@ -23,7 +23,6 @@ Full-stack web uygulamaları ve C# / .NET masaüstü yazılımları geliştiriyo
 |---|---|---|
 | **[Beytrium](https://github.com/yagizturkmen-ceng/beytrium-v1.4)** · [canlı demo](https://beytrium.vercel.app) | Beykent Üniversitesi Bilimsel Araştırma ve Teknoloji Kulübü için topluluk platformu: etkinlikler, duyurular, profiller, yönetim paneli | React, TypeScript, Tailwind, Node.js, Express |
 | **[AutoMotion](https://github.com/yagizturkmen-ceng/automotion)** | Windows masaüstünde dolaşan, fizik ve yapay zekâ ile hareket eden araçlar; eklenti mimarisi, MQTT telemetri, 250+ birim testi | C#, .NET 9, WPF, xUnit |
-| **SCHOTT ITAM** *(özel repo)* | Staj kapsamında geliştirilen IT varlık yönetim sistemi | Vue 3, React, Node.js |
 
 ---
 
