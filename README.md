@@ -1,31 +1,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6a11cb,100:2575fc&text=Ya%C4%9F%C4%B1z%20T%C3%BCrkmen&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-stack%20%E2%80%A2%20.NET%20%E2%80%A2%20Prompt%20Engineering&descAlignY=58&descSize=18" width="100%" alt="Yağız Türkmen" />
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=7B5CFF&center=true&vCenter=true&width=620&lines=Fikirleri+%C3%A7al%C4%B1%C5%9Fan+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum+%F0%9F%9A%80;Full-stack+Web+%E2%80%A2+C%23+%2F+.NET+%E2%80%A2+Vue+%26+React;Prompt+Engineering+%26+AI+destekli+geli%C5%9Ftirme+%F0%9F%A4%96" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1z-t%C3%BCrkmen-790667339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yagizturkmen1414@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta" /></a>
   <img src="https://img.shields.io/badge/Beykent%20%C3%9Cniversitesi-Bilgisayar%20M%C3%BChendisli%C4%9Fi-6a11cb?style=for-the-badge" alt="Beykent Üniversitesi" />
 </p>
 
-## 👋 Merhaba!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="" /> Hakkımda
 
-Ben **Yağız** — fikirleri hızla çalışan ürünlere dönüştüren bir **Bilgisayar Mühendisliği öğrencisi**. Kurumsal ölçekte bir web uygulamasını baştan sona yeni bir mimariye taşıdım, üniversite kulübümüzün canlıdaki platformunu geliştirdim ve 250'den fazla testle korunan bir masaüstü simülasyon oyunu yazdım.
+Full-stack web ve C# / .NET alanlarında ürün geliştiren bir **Bilgisayar Mühendisliği öğrencisiyim**. Kurumsal bir IT envanter yönetim sistemini uçtan uca geliştirdim; kullanıcı arayüzünden REST API'ye, yetkilendirmeden raporlamaya kadar tüm katmanlarda sorumluluk aldım. Yapay zekâ destekli geliştirme ve **prompt engineering** iş akışlarımın merkezinde yer alıyor.
 
-Yapay zekâyı bir araç olarak değil, **ekip arkadaşı** olarak kullanıyorum: iyi yazılmış bir prompt'un, iyi yazılmış bir fonksiyon kadar değerli olduğuna inanıyorum.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt="" /> Deneyim
 
-- ⚡ **Hızlı üretirim:** Fikirden çalışan prototipe günler içinde, sonra da sağlam bir mimariye.
-- 🧠 **Prompt engineering:** LLM'lerle kod üretimi, refactoring, dokümantasyon ve test yazımı için sistematik prompt akışları tasarlıyorum.
-- 🎨 **Göze de önem veririm:** Neobrutalist web arayüzlerinden şeffaf masaüstü pencerelerine, tasarımı da kodu kadar ciddiye alırım.
-- 🧪 **Test ederim:** Çalışıyor demek yetmez; kanıtlanmış olmalı.
+### 🏢 Yazılım Stajyeri · *IT Departmanı*
+**Kurumsal IT Varlık ve Envanter Yönetim Sistemi**
 
-## 💼 Deneyim
+- 🏗️ Şirketin donanım, yazılım lisansı, sarf malzemesi ve kullanıcı envanterini tek panelden yöneten web uygulamasını **sıfırdan tasarlayıp geliştirdim**.
+- 🖥️ Dashboard, varlık listesi/detay/form, lisans takibi, kullanıcı ve rol yönetimi, destek talebi (ticket) ve raporlama modüllerini hayata geçirdim.
+- 🔁 Uygulamayı **React + TypeScript** mimarisinden **Vue 3 + Vuetify + Pinia** mimarisine taşıyarak bakım ve genişletilebilirliği artırdım.
+- 🔐 **Node.js / Express** üzerinde JWT kimlik doğrulamalı, modüler CRUD yapısına sahip bir REST API geliştirdim.
+- 📄 Raporların **Word (.docx)** formatında dışa aktarımını, açık/koyu tema desteğini ve global arama özelliğini ekledim.
+- 🤖 Geliştirme sürecinde **prompt engineering** ile yapay zekâ destekli kod üretimi, refactoring ve dokümantasyon akışları kurarak teslim süresini kısalttım.
 
-**Yazılım Stajyeri** · *IT departmanı*
+**Kullanılan teknolojiler:** Vue 3 · Vuetify · Pinia · React · TypeScript · Node.js · Express · JWT · Vite
 
-- 🖥️ Kurumsal **IT varlık yönetimi** web uygulamasının arayüzünü geliştirdim: varlık, lisans, kullanıcı ve destek talebi ekranları, raporların Word'e aktarımı.
-- 🔁 Uygulamayı **React + TypeScript**'ten **Vue 3 + Vuetify + Pinia** mimarisine taşıdım; JWT kimlik doğrulamalı **Node.js / Express** REST API'sini kurdum.
-- 🤖 Geliştirme sürecinde yapay zekâ destekli iş akışları ve prompt şablonları hazırlayarak tekrarlayan işleri hızlandırdım.
-
-## 🚀 Öne çıkan projeler
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="" /> Öne çıkan projeler
 
 <table>
   <tr>
@@ -53,7 +56,7 @@ Yapay zekâyı bir araç olarak değil, **ekip arkadaşı** olarak kullanıyorum
   </tr>
 </table>
 
-## 🛠️ Kullandığım teknolojiler
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="32" alt="" /> Kullandığım teknolojiler
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />&nbsp;
@@ -67,6 +70,9 @@ Yapay zekâyı bir araç olarak değil, **ekip arkadaşı** olarak kullanıyorum
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;
@@ -77,6 +83,17 @@ Yapay zekâyı bir araç olarak değil, **ekip arkadaşı** olarak kullanıyorum
 </p>
 
 **🤖 Yapay zekâ ile geliştirme:** Claude · ChatGPT / Codex · Gemini · GitHub Copilot — prompt tasarımı, ajan tabanlı kodlama, otomatik dokümantasyon
+
+## <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="32" alt="" /> GitHub istatistikleri
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagizturkmen-ceng&theme=tokyonight" width="100%" alt="Profil detayları" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="Dil dağılımı" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="En çok commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="İstatistikler" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2575fc,100:6a11cb&section=footer" width="100%" alt="" />
 
