@@ -109,12 +109,12 @@ Full-stack web ve C# / .NET alanlarında ürün geliştiren bir **Bilgisayar Mü
 ## <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="32" alt="" /> GitHub istatistikleri
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagizturkmen-ceng&theme=tokyonight" width="100%" alt="Profil detayları" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagizturkmen-ceng&theme=tokyonight&v=20261125" width="100%" alt="Profil detayları" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="Dil dağılımı" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="En çok commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagizturkmen-ceng&theme=tokyonight" height="165" alt="İstatistikler" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagizturkmen-ceng&theme=tokyonight&v=20261125" height="165" alt="Dil dağılımı" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagizturkmen-ceng&theme=tokyonight&v=20261125" height="165" alt="En çok commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagizturkmen-ceng&theme=tokyonight&v=20261125" height="165" alt="İstatistikler" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2575fc,100:6a11cb&section=footer" width="100%" alt="" />
