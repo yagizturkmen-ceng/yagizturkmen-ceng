@@ -1,0 +1,120 @@
+{
+  "projects": [
+    {
+      "name": "automotion",
+      "src": "yagizturkmen-ceng/automotion",
+      "language": "C#",
+      "languages": {
+        "C#": 851784
+      },
+      "commits": 2,
+      "stars": 1
+    },
+    {
+      "name": "beytrium-v1.4",
+      "src": "yagizturkmen-ceng/beytrium-v1.4",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 416831,
+        "JavaScript": 8244,
+        "CSS": 3113,
+        "HTML": 631
+      },
+      "commits": 1,
+      "stars": 0
+    },
+    {
+      "name": "bitirme_projesi_korteks",
+      "src": "efecanefee/bitirme_projesi_korteks",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 234032,
+        "JavaScript": 10512,
+        "HTML": 668,
+        "Dockerfile": 569,
+        "CSS": 176
+      },
+      "commits": 0,
+      "stars": 2
+    },
+    {
+      "name": "ingilizce-calisma-PACEORA-",
+      "src": "efecanefee/ingilizce-calisma-PACEORA-",
+      "language": "Dart",
+      "languages": {
+        "Dart": 1270126,
+        "JavaScript": 354754,
+        "C++": 20947,
+        "CMake": 10662,
+        "HTML": 2686,
+        "Kotlin": 1945,
+        "Ruby": 1389,
+        "Swift": 900,
+        "C": 734,
+        "Objective-C": 38
+      },
+      "commits": 67,
+      "stars": 1
+    }
+  ],
+  "prs": 5,
+  "calendar": {
+    "total": 115,
+    "weeks": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      6,
+      0,
+      69,
+      18
+    ]
+  },
+  "updated": "2026-11-25T18:04:43.702Z"
+}
