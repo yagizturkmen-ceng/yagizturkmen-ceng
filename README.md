@@ -41,7 +41,6 @@ Full-stack web ve C# / .NET alanlarında ürün geliştiren bir **Bilgisayar Mü
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
-      <a href="https://beytrium.vercel.app"><b>🔗 Canlı demo</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/yagizturkmen-ceng/automotion">AutoMotion</a></h3>
@@ -53,6 +52,20 @@ Full-stack web ve C# / .NET alanlarında ürün geliştiren bir **Bilgisayar Mü
         <img src="https://img.shields.io/badge/xUnit-5E1F87?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/efecanefee/bitirme_projesi_korteks">Korteks</a></h3>
+      <p>PSG, Pusula ve OBS'yi tek panelde birleştiren öğrenci platformu ve yapay zekâ asistanı. Belgeye dayalı sorulara RAG ile kaynaklı yanıt, kişisel sorulara (gereken final puanı, kalan devamsızlık) deterministik hesaplama. Beykent Üniversitesi tasarım projesi — arayüz geliştiricisi olarak yer alıyorum.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
