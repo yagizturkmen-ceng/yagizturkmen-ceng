@@ -30,8 +30,9 @@ async function collect() {
     const languages = await api(`/repos/${src}/languages`);
     let commits = 0;
     for (let page = 1; page <= 30; page++) {
-      const c = await api(`/repos/${src}/commits?author=${USER}&per_page=100&page=${page}`);
-      commits += c.length;
+      // ?author= filtresi bazı commit'leri kaçırıyor; hepsini çekip hesaba göre sayıyoruz.
+      const c = await api(`/repos/${src}/commits?per_page=100&page=${page}`);
+      commits += c.filter((k) => (k.author && k.author.login) === USER).length;
       if (c.length < 100) break;
     }
     const srcRepo = src === repo.full_name ? repo : await api(`/repos/${src}`);
