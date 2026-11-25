@@ -65,7 +65,16 @@ Full-stack web ve C# / .NET alanlarında ürün geliştiren bir **Bilgisayar Mü
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/efecanefee/ingilizce-calisma-PACEORA-">Paceora</a></h3>
+      <p>Türkçe konuşanlar için günlük İngilizce çalışma uygulaması. Seviyeye ve günlük süreye göre yapay zekâ ile kişiye özel haftalık program, çok adımlı dersler, hata defteri, seri takibi ve maskot Pace. Android, iOS, Web ve Windows'ta çalışır.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+    </td>
   </tr>
 </table>
 
