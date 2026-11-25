@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#1a1b27" stroke="#2f334d"/>
 <text x="20" y="32" fill="#70a5fd" font-size="17" font-weight="600">Commit’lere göre diller</text>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#00B4AB" stroke-width="20" stroke-dasharray="312.72 14.00" stroke-dashoffset="0.00" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#9b4f96" stroke-width="20" stroke-dasharray="9.34 317.39" stroke-dashoffset="-312.72" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#3178c6" stroke-width="20" stroke-dasharray="4.67 322.06" stroke-dashoffset="-322.06" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#00B4AB" stroke-width="20" stroke-dasharray="270.25 56.47" stroke-dashoffset="0.00" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#3178c6" stroke-width="20" stroke-dasharray="48.40 278.32" stroke-dashoffset="-270.25" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#9b4f96" stroke-width="20" stroke-dasharray="8.07 318.66" stroke-dashoffset="-318.66" transform="rotate(-90 250 112)"/>
 <rect x="20" y="53" width="10" height="10" rx="2" fill="#00B4AB"/><text x="36" y="62" fill="#a9b1d6" font-size="12">Dart · 67 commit</text>
-<rect x="20" y="74" width="10" height="10" rx="2" fill="#9b4f96"/><text x="36" y="83" fill="#a9b1d6" font-size="12">C# · 2 commit</text>
-<rect x="20" y="95" width="10" height="10" rx="2" fill="#3178c6"/><text x="36" y="104" fill="#a9b1d6" font-size="12">TypeScript · 1 commit</text>
+<rect x="20" y="74" width="10" height="10" rx="2" fill="#3178c6"/><text x="36" y="83" fill="#a9b1d6" font-size="12">TypeScript · 12 commit</text>
+<rect x="20" y="95" width="10" height="10" rx="2" fill="#9b4f96"/><text x="36" y="104" fill="#a9b1d6" font-size="12">C# · 2 commit</text>
 </svg>
