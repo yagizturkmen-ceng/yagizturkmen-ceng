@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#1a1b27" stroke="#2f334d"/>
 <text x="20" y="32" fill="#70a5fd" font-size="17" font-weight="600">Dil dağılımı (kod)</text>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#00B4AB" stroke-width="20" stroke-dasharray="130.06 196.67" stroke-dashoffset="0.00" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#9b4f96" stroke-width="20" stroke-dasharray="87.22 239.50" stroke-dashoffset="-130.06" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#3178c6" stroke-width="20" stroke-dasharray="66.65 260.08" stroke-dashoffset="-217.28" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#f1e05a" stroke-width="20" stroke-dasharray="38.25 288.48" stroke-dashoffset="-283.93" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#f34b7d" stroke-width="20" stroke-dasharray="2.14 324.58" stroke-dashoffset="-322.17" transform="rotate(-90 250 112)"/>
-<circle cx="250" cy="112" r="52" fill="none" stroke="#565f89" stroke-width="20" stroke-dasharray="2.41 324.32" stroke-dashoffset="-324.32" transform="rotate(-90 250 112)"/>
-<rect x="20" y="53" width="10" height="10" rx="2" fill="#00B4AB"/><text x="36" y="62" fill="#a9b1d6" font-size="12">Dart · %39,8</text>
-<rect x="20" y="74" width="10" height="10" rx="2" fill="#9b4f96"/><text x="36" y="83" fill="#a9b1d6" font-size="12">C# · %26,7</text>
-<rect x="20" y="95" width="10" height="10" rx="2" fill="#3178c6"/><text x="36" y="104" fill="#a9b1d6" font-size="12">TypeScript · %20,4</text>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#00B4AB" stroke-width="20" stroke-dasharray="129.53 197.19" stroke-dashoffset="0.00" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#9b4f96" stroke-width="20" stroke-dasharray="86.87 239.86" stroke-dashoffset="-129.53" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#3178c6" stroke-width="20" stroke-dasharray="67.63 259.09" stroke-dashoffset="-216.40" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#f1e05a" stroke-width="20" stroke-dasharray="38.09 288.63" stroke-dashoffset="-284.03" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#f34b7d" stroke-width="20" stroke-dasharray="2.14 324.59" stroke-dashoffset="-322.13" transform="rotate(-90 250 112)"/>
+<circle cx="250" cy="112" r="52" fill="none" stroke="#565f89" stroke-width="20" stroke-dasharray="2.46 324.26" stroke-dashoffset="-324.26" transform="rotate(-90 250 112)"/>
+<rect x="20" y="53" width="10" height="10" rx="2" fill="#00B4AB"/><text x="36" y="62" fill="#a9b1d6" font-size="12">Dart · %39,6</text>
+<rect x="20" y="74" width="10" height="10" rx="2" fill="#9b4f96"/><text x="36" y="83" fill="#a9b1d6" font-size="12">C# · %26,6</text>
+<rect x="20" y="95" width="10" height="10" rx="2" fill="#3178c6"/><text x="36" y="104" fill="#a9b1d6" font-size="12">TypeScript · %20,7</text>
 <rect x="20" y="116" width="10" height="10" rx="2" fill="#f1e05a"/><text x="36" y="125" fill="#a9b1d6" font-size="12">JavaScript · %11,7</text>
 <rect x="20" y="137" width="10" height="10" rx="2" fill="#f34b7d"/><text x="36" y="146" fill="#a9b1d6" font-size="12">C++ · %0,7</text>
-<rect x="20" y="158" width="10" height="10" rx="2" fill="#565f89"/><text x="36" y="167" fill="#a9b1d6" font-size="12">Diğer · %0,7</text>
+<rect x="20" y="158" width="10" height="10" rx="2" fill="#565f89"/><text x="36" y="167" fill="#a9b1d6" font-size="12">Diğer · %0,8</text>
 </svg>

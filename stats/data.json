@@ -28,9 +28,9 @@
       "src": "efecanefee/bitirme_projesi_korteks",
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 234032,
+        "TypeScript": 246360,
         "JavaScript": 10512,
-        "HTML": 668,
+        "HTML": 1303,
         "Dockerfile": 569,
         "CSS": 176
       },
@@ -59,7 +59,7 @@
   ],
   "prs": 5,
   "calendar": {
-    "total": 116,
+    "total": 117,
     "weeks": [
       0,
       0,
@@ -113,8 +113,8 @@
       6,
       0,
       69,
-      19
+      20
     ]
   },
-  "updated": "2026-11-25T18:06:09.556Z"
+  "updated": "2026-11-26T12:30:05.770Z"
 }
