@@ -5,9 +5,10 @@
       "src": "yagizturkmen-ceng/automotion",
       "language": "C#",
       "languages": {
-        "C#": 851784
+        "C#": 890962,
+        "PowerShell": 5625
       },
-      "commits": 2,
+      "commits": 4,
       "stars": 1
     },
     {
@@ -28,13 +29,13 @@
       "src": "efecanefee/bitirme_projesi_korteks",
       "language": "TypeScript",
       "languages": {
-        "TypeScript": 246360,
+        "TypeScript": 296828,
         "JavaScript": 10512,
-        "HTML": 1303,
+        "HTML": 1523,
         "Dockerfile": 569,
         "CSS": 176
       },
-      "commits": 8,
+      "commits": 10,
       "stars": 2
     },
     {
@@ -57,9 +58,9 @@
       "stars": 1
     }
   ],
-  "prs": 5,
+  "prs": 13,
   "calendar": {
-    "total": 117,
+    "total": 129,
     "weeks": [
       0,
       0,
@@ -113,8 +114,8 @@
       6,
       0,
       69,
-      20
+      32
     ]
   },
-  "updated": "2026-11-26T12:30:05.770Z"
+  "updated": "2026-11-27T12:15:18.155Z"
 }
